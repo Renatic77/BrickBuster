@@ -28,7 +28,7 @@
 ## Используемые библиотеки и язык прогромирования: 📚
 
 ### Язык программирования выбран:
-<a href="url"><img src="https://github.com/Renatic77/BrickBuster/assets/153199759/bc6277e3-4a7a-4477-a551-2aabed940062" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/Renatic77/BrickBuster/assets/153199759/bc6277e3-4a7a-4477-a551-2aabed940062" align="left" height="48" width="100" ></a>
 
 
 
