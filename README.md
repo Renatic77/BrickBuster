@@ -28,10 +28,11 @@
 ## Используемые среды и язык прогромирования: 📚
 
 ### Язык программирования выбран:
-[![Язык программирования](https://github.com/Renatic77/BrickBuster/assets/153199759/bc6277e3-4a7a-4477-a551-2aabed940062 | width=130)](url)
+<a href="url"><img src="https://github.com/Renatic77/BrickBuster/assets/153199759/bc6277e3-4a7a-4477-a551-2aabed940062" align="left" height="48" width="130">
 
+|            |
 ### Среда разработки:
-[![Среда разработки](https://github.com/Renatic77/BrickBuster/assets/153199759/4c033649-07f8-4fea-88ae-0645549a5c06 | width=150)](url)
+<a href="url"><img src="https://github.com/Renatic77/BrickBuster/assets/153199759/4c033649-07f8-4fea-88ae-0645549a5c06" align="left" height="48" width="150">
 
 
 
